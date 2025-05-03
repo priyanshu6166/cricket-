@@ -1,0 +1,415 @@
+.elementor-7 .elementor-element.elementor-element-2bbe3f8:not(.elementor-motion-effects-element-type-background)>.elementor-widget-wrap,
+.elementor-7 .elementor-element.elementor-element-2bbe3f8>.elementor-widget-wrap>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-image: url("https://tensport.services/wp-content/uploads/2025/03/jaybholedesk.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.elementor-7 .elementor-element.elementor-element-2bbe3f8>.elementor-element-populated {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+}
+
+.elementor-7 .elementor-element.elementor-element-2bbe3f8>.elementor-element-populated>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-widget-image .widget-image-caption {
+    color: var( --e-global-color-text);
+    font-family: var( --e-global-typography-text-font-family), Sans-serif;
+    font-weight: var( --e-global-typography-text-font-weight);
+}
+
+.elementor-7 .elementor-element.elementor-element-53736b3>.elementor-widget-container {
+    margin: -41px 0px -48px 0px;
+}
+
+.elementor-7 .elementor-element.elementor-element-53736b3 {
+    text-align: center;
+}
+
+.elementor-7 .elementor-element.elementor-element-53736b3 img {
+    width: 11%;
+}
+
+.elementor-widget-heading .elementor-heading-title {
+    font-family: var( --e-global-typography-primary-font-family), Sans-serif;
+    font-weight: var( --e-global-typography-primary-font-weight);
+    color: var( --e-global-color-primary);
+}
+
+.elementor-7 .elementor-element.elementor-element-9802d51 {
+    text-align: center;
+}
+
+.elementor-7 .elementor-element.elementor-element-9802d51 .elementor-heading-title {
+    font-family: "Roboto", Sans-serif;
+    font-size: 25px;
+    font-weight: 600;
+    color: #FFFFFF;
+}
+
+.elementor-7 .elementor-element.elementor-element-097f7ca>.elementor-widget-container {
+    margin: -13px 0px 0px 0px;
+}
+
+.elementor-7 .elementor-element.elementor-element-097f7ca {
+    text-align: center;
+}
+
+.elementor-7 .elementor-element.elementor-element-097f7ca .elementor-heading-title {
+    font-family: "Roboto", Sans-serif;
+    font-size: 25px;
+    font-weight: 600;
+    text-transform: capitalize;
+    color: #FFFFFF;
+}
+
+.elementor-widget-text-editor {
+    color: var( --e-global-color-text);
+    font-family: var( --e-global-typography-text-font-family), Sans-serif;
+    font-weight: var( --e-global-typography-text-font-weight);
+}
+
+.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap {
+    background-color: var( --e-global-color-primary);
+}
+
+.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap,
+.elementor-widget-text-editor.elementor-drop-cap-view-default .elementor-drop-cap {
+    color: var( --e-global-color-primary);
+    border-color: var( --e-global-color-primary);
+}
+
+.elementor-7 .elementor-element.elementor-element-9780ee6>.elementor-widget-container {
+    margin: -7px 0px -110px 0px;
+}
+
+.elementor-7 .elementor-element.elementor-element-9780ee6 {
+    text-align: center;
+    font-family: "Roboto", Sans-serif;
+    font-size: 60px;
+    font-weight: 700;
+}
+
+.elementor-7 .elementor-element.elementor-element-c59bb9f>.elementor-widget-container {
+    margin: -36px 0px -119px 0px;
+}
+
+.elementor-7 .elementor-element.elementor-element-c59bb9f {
+    text-align: center;
+    font-family: "Roboto", Sans-serif;
+    font-size: 60px;
+    font-weight: 700;
+}
+
+.elementor-7 .elementor-element.elementor-element-7f893e0>.elementor-widget-container {
+    background-color: #0A1492;
+}
+
+.elementor-7 .elementor-element.elementor-element-7f893e0 {
+    color: #FFFFFF;
+    font-family: "Roboto", Sans-serif;
+    font-weight: 700;
+}
+
+.elementor-7 .elementor-element.elementor-element-7abcd4b>.elementor-widget-container {
+    margin: 0em 15em 0em 15em;
+}
+
+.elementor-7 .elementor-element.elementor-element-7abcd4b {
+    text-align: center;
+    color: #F8F8F8;
+}
+
+.elementor-widget-button .elementor-button {
+    background-color: var( --e-global-color-accent);
+    font-family: var( --e-global-typography-accent-font-family), Sans-serif;
+    font-weight: var( --e-global-typography-accent-font-weight);
+}
+
+.elementor-7 .elementor-element.elementor-element-eb8a21f .elementor-button {
+    background-color: transparent;
+    font-family: "Roboto", Sans-serif;
+    font-size: 20px;
+    font-weight: 500;
+    fill: #000000;
+    color: #000000;
+    background-image: linear-gradient(180deg, #E6C36E 0%, #FAE8A1 100%);
+    border-radius: 24px 24px 24px 24px;
+    box-shadow: 0px 0px 10px 4px #FAE8A1;
+    padding: 11px 60px 11px 60px;
+}
+
+.elementor-7 .elementor-element.elementor-element-271f1d7:not(.elementor-motion-effects-element-type-background)>.elementor-widget-wrap,
+.elementor-7 .elementor-element.elementor-element-271f1d7>.elementor-widget-wrap>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: #0C0215;
+}
+
+.elementor-7 .elementor-element.elementor-element-271f1d7>.elementor-element-populated {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+}
+
+.elementor-7 .elementor-element.elementor-element-271f1d7>.elementor-element-populated>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-7 .elementor-element.elementor-element-86a6768 img {
+    width: 45%;
+}
+
+.elementor-7 .elementor-element.elementor-element-1f10e15 {
+    text-align: center;
+}
+
+.elementor-7 .elementor-element.elementor-element-1f10e15 .elementor-heading-title {
+    font-family: "Roboto", Sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    color: #FFFFFF;
+}
+
+.elementor-7 .elementor-element.elementor-element-bccafd2 {
+    text-align: center;
+}
+
+.elementor-7 .elementor-element.elementor-element-bccafd2 .elementor-heading-title {
+    font-family: "Roboto", Sans-serif;
+    font-size: 34px;
+    font-weight: 600;
+    color: #FFEB3B;
+}
+
+.elementor-7 .elementor-element.elementor-element-8397909>.elementor-widget-container {
+    margin: -15px 0px 0px 0px;
+}
+
+.elementor-7 .elementor-element.elementor-element-8397909 {
+    text-align: center;
+}
+
+.elementor-7 .elementor-element.elementor-element-8397909 .elementor-heading-title {
+    font-family: "Roboto", Sans-serif;
+    font-size: 34px;
+    font-weight: 600;
+    color: #FFEB3B;
+}
+
+.elementor-7 .elementor-element.elementor-element-f85d61c>.elementor-widget-container {
+    margin: 0em 18em 0em 18em;
+}
+
+.elementor-7 .elementor-element.elementor-element-f85d61c {
+    text-align: center;
+}
+
+.elementor-7 .elementor-element.elementor-element-f85d61c .elementor-heading-title {
+    font-family: "Roboto", Sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    color: #FFFFFF;
+}
+
+.elementor-7 .elementor-element.elementor-element-33543e7:not(.elementor-motion-effects-element-type-background),
+.elementor-7 .elementor-element.elementor-element-33543e7>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: #000000;
+}
+
+.elementor-7 .elementor-element.elementor-element-33543e7 {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+}
+
+.elementor-7 .elementor-element.elementor-element-33543e7>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-7 .elementor-element.elementor-element-d2dddd3 .elementor-button {
+    background-color: transparent;
+    font-family: "Roboto", Sans-serif;
+    font-size: 20px;
+    font-weight: 500;
+    fill: #000000;
+    color: #000000;
+    background-image: linear-gradient(180deg, #E6C36E 0%, #FAE8A1 100%);
+    border-radius: 24px 24px 24px 24px;
+    box-shadow: 0px 0px 10px 4px #FAE8A1;
+    padding: 11px 60px 11px 60px;
+}
+
+.elementor-7 .elementor-element.elementor-element-ee63885>.elementor-widget-container {
+    margin: 1em 1em 1em 1em;
+}
+
+.elementor-7 .elementor-element.elementor-element-ee63885 {
+    text-align: center;
+}
+
+.elementor-7 .elementor-element.elementor-element-ee63885 .elementor-heading-title {
+    font-family: "Roboto", Sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    color: #FFFFFF;
+}
+
+.elementor-7 .elementor-element.elementor-element-fc3dcd5:not(.elementor-motion-effects-element-type-background),
+.elementor-7 .elementor-element.elementor-element-fc3dcd5>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: #000000;
+}
+
+.elementor-7 .elementor-element.elementor-element-fc3dcd5 {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+}
+
+.elementor-7 .elementor-element.elementor-element-fc3dcd5>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-7 .elementor-element.elementor-element-2e17c73>.elementor-widget-container {
+    margin: 0em 1em 0em 1em;
+}
+
+.elementor-7 .elementor-element.elementor-element-2e17c73 {
+    text-align: center;
+}
+
+.elementor-7 .elementor-element.elementor-element-2e17c73 .elementor-heading-title {
+    font-family: "Roboto", Sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    color: #FFFFFF;
+}
+
+.elementor-widget-divider {
+    --divider-color: var( --e-global-color-secondary);
+}
+
+.elementor-widget-divider .elementor-divider__text {
+    color: var( --e-global-color-secondary);
+    font-family: var( --e-global-typography-secondary-font-family), Sans-serif;
+    font-weight: var( --e-global-typography-secondary-font-weight);
+}
+
+.elementor-widget-divider.elementor-view-stacked .elementor-icon {
+    background-color: var( --e-global-color-secondary);
+}
+
+.elementor-widget-divider.elementor-view-framed .elementor-icon,
+.elementor-widget-divider.elementor-view-default .elementor-icon {
+    color: var( --e-global-color-secondary);
+    border-color: var( --e-global-color-secondary);
+}
+
+.elementor-widget-divider.elementor-view-framed .elementor-icon,
+.elementor-widget-divider.elementor-view-default .elementor-icon svg {
+    fill: var( --e-global-color-secondary);
+}
+
+.elementor-7 .elementor-element.elementor-element-f17bd07 {
+    --divider-border-style: solid;
+    --divider-color: #F8F8AE;
+    --divider-border-width: 1px;
+}
+
+.elementor-7 .elementor-element.elementor-element-f17bd07 .elementor-divider-separator {
+    width: 78%;
+    margin: 0 auto;
+    margin-center: 0;
+}
+
+.elementor-7 .elementor-element.elementor-element-f17bd07 .elementor-divider {
+    text-align: center;
+    padding-block-start: 2px;
+    padding-block-end: 2px;
+}
+
+.elementor-7 .elementor-element.elementor-element-9bc53e3>.elementor-widget-container {
+    margin: 1em 1em 1em 1em;
+}
+
+.elementor-7 .elementor-element.elementor-element-9bc53e3 {
+    text-align: center;
+}
+
+.elementor-7 .elementor-element.elementor-element-9bc53e3 .elementor-heading-title {
+    font-family: "Roboto", Sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    color: #FFFFFF;
+}
+
+.elementor-widget-icon-list .elementor-icon-list-item:not(:last-child):after {
+    border-color: var( --e-global-color-text);
+}
+
+.elementor-widget-icon-list .elementor-icon-list-icon i {
+    color: var( --e-global-color-primary);
+}
+
+.elementor-widget-icon-list .elementor-icon-list-icon svg {
+    fill: var( --e-global-color-primary);
+}
+
+.elementor-widget-icon-list .elementor-icon-list-item>.elementor-icon-list-text,
+.elementor-widget-icon-list .elementor-icon-list-item>a {
+    font-family: var( --e-global-typography-text-font-family), Sans-serif;
+    font-weight: var( --e-global-typography-text-font-weight);
+}
+
+.elementor-widget-icon-list .elementor-icon-list-text {
+    color: var( --e-global-color-secondary);
+}
+
+.elementor-7 .elementor-element.elementor-element-7e20a14 .elementor-icon-list-icon i {
+    transition: color 0.3s;
+}
+
+.elementor-7 .elementor-element.elementor-element-7e20a14 .elementor-icon-list-icon svg {
+    transition: fill 0.3s;
+}
+
+.elementor-7 .elementor-element.elementor-element-7e20a14 {
+    --e-icon-list-icon-size: 14px;
+    --e-icon-list-icon-align: center;
+    --e-icon-list-icon-margin: 0 calc(var(--e-icon-list-icon-size, 1em) * 0.125);
+    --icon-vertical-align: center;
+    --icon-vertical-offset: 0px;
+}
+
+.elementor-7 .elementor-element.elementor-element-7e20a14 .elementor-icon-list-item>.elementor-icon-list-text,
+.elementor-7 .elementor-element.elementor-element-7e20a14 .elementor-icon-list-item>a {
+    font-family: "Roboto", Sans-serif;
+    font-weight: 400;
+}
+
+.elementor-7 .elementor-element.elementor-element-7e20a14 .elementor-icon-list-text {
+    text-shadow: 0px 0px 10px rgba(4.789565217391304, 47.57403402646503, 244.79999999999998, 0.3);
+    color: #0072FA;
+    transition: color 0.3s;
+}
+
+@media(max-width:767px) {
+    .elementor-7 .elementor-element.elementor-element-5c29f75>.elementor-widget-container {
+        margin: -62px 0px -106px 0px;
+    }
+    .elementor-7 .elementor-element.elementor-element-5c29f75 img {
+        width: 42%;
+    }
+    .elementor-7 .elementor-element.elementor-element-7f893e0>.elementor-widget-container {
+        margin: -1px -1px -70px -1px;
+        padding: 5px 0px 0px 0px;
+        border-radius: 12px 12px 12px 12px;
+    }
+    .elementor-7 .elementor-element.elementor-element-7f893e0 {
+        text-align: center;
+        font-size: 40px;
+        line-height: 1.4em;
+    }
+    .elementor-7 .elementor-element.elementor-element-7abcd4b>.elementor-widget-container {
+        margin: 0em 0em 0em 0em;
+    }
+    .elementor-7 .elementor-element.elementor-element-86a6768 img {
+        width: 91%;
+    }
+    .elementor-7 .elementor-element.elementor-element-f85d61c>.elementor-widget-container {
+        margin: 0em 0em 0em 0em;
+    }
+}
